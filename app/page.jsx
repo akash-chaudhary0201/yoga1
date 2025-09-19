@@ -25,7 +25,7 @@ export default function Home() {
             <p className="mt-6 font-poppins text-gray-700 text-lg leading-relaxed">
               At{" "}
               <span className="font-semibold text-[#21bdab]">
-                Sakshi Power Yoga Academy
+                 Yoga Classes
               </span>
               , we believe yoga is more than just exercise—it’s a way to
               reconnect with your body, mind, and soul. Whether you are a

@@ -15,7 +15,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Sakshi Power Yoga",
+  title: "Yoga Classes",
   description: "Find Your Inner Peace with Yoga",
 };
 
