@@ -9,7 +9,7 @@ const Footer = () => {
 
         {/* Column 1: Yoga Academy + Social */}
         <div>
-          <h2 className="text-2xl font-bold mb-4 font-playfair">Sakshi Power Yoga</h2>
+          <h2 className="text-2xl font-bold mb-4 font-playfair">Yoga Classes</h2>
           <p className="text-gray-300 mb-4">
             Join our yoga community and start your journey towards balance and wellness.
           </p>

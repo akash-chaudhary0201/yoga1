@@ -16,7 +16,7 @@ const Navbarr = () => {
           >
             {isOpen ? <X size={28} /> : <Menu size={28} />}
           </button>
-          <h1 className="text-xl font-bold">SPYA</h1>
+          <h1 className="text-xl font-bold">Yoga Classses</h1>
         </div>
 
         {/* Center: Nav Links */}
